@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Attendance & Engagement Agent",
+  "description": "Professional teacher dashboard, class session management, attendance tracking, student directory, analytics, and multimodal engagement foundation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
